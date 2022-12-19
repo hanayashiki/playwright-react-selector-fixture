@@ -5,7 +5,7 @@
 1. Clone this repository
 
 ```bash
-
+git clone git@github.com:hanayashiki/playwright-react-selector-fixture.git
 cd playwright-react-selector-fixture
 ```
 
